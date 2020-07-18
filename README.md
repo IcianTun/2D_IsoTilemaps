@@ -1,3 +1,13 @@
+# Isometric Tilemaps Test
+
+## Builded APK file is at the apk folder for convenience.
+
+- Unity version 2019.4.3f1
+- There is fixed spawn points for the monster.
+- Best play in mobile landscape
+
+# Below are from readme attached with the zip file
+
 # 2D Isometric Tilemaps - Example Project
 
 ![IsoTilemaps_Temple.png](https://i.imgur.com/3psZE0c.png)
